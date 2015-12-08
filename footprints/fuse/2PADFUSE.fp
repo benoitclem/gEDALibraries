@@ -1,0 +1,6 @@
+Element["" "2PADFUSE" "" "" 1000 1000 0nm -1000000nm 0 100 ""]
+(
+	Pad[-2450000nm -600000nm -2450000nm 600000nm 1960000nm 304800nm 2036200nm "2" "2" "square"]
+	Pad[2450000nm -600000nm 2450000nm 600000nm 1960000nm 304800nm 2036200nm "1" "1" "square"]
+	ElementLine [0nm -1780000nm 0nm 1780000nm 150000nm]
+)

@@ -1,0 +1,13 @@
+Element["" "USB_EMBASE_TYPE_A" "" "" 1000 1000 0nm -1000000nm 0 100 ""]
+(
+	Pin[ -3500000nm -1355000nm 1620000nm 304800nm 1696200nm 920000nm "1" "1" "circle, nopaste"]
+	Pin[ -1000000nm -1355000nm 1620000nm 304800nm 1696200nm 920000nm "2" "2" "circle, nopaste"]
+	Pin[ 1000000nm -1355000nm 1620000nm 304800nm 1696200nm 920000nm "3" "3" "circle, nopaste"]
+	Pin[ 3500000nm -1355000nm 1620000nm 304800nm 1696200nm 920000nm "4" "4" "circle, nopaste"]
+	Pin[ -6570000nm 1355000nm 4000000nm 304800nm 4076200nm 2400000nm "5" "5" "circle, nopaste"]
+	Pin[ 6570000nm 1355000nm 4000000nm 304800nm 4076200nm 2400000nm "5" "5" "circle, nopaste"]
+	ElementLine [-9000000nm -3810000nm -9000000nm 3810000nm 155000nm]
+	ElementLine [9000000nm -3810000nm 9000000nm 3810000nm 155000nm]
+	ElementLine [-9000000nm 3810000nm 9000000nm 3810000nm 155000nm]
+	ElementLine [-9000000nm -3810000nm 9000000nm -3810000nm 155000nm]
+)

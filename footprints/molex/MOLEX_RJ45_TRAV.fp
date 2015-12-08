@@ -1,0 +1,17 @@
+Element["" "MOLEX_RJ45_TRAV" "" "" 1000 1000 0nm -1000000nm 0 100 ""]
+(
+	Pin[ 3810000nm -2540000nm 1590000nm 304800nm 1666200nm 890000nm "1" "1" "circle, nopaste"]
+	Pin[ 2790000nm -4320000nm 1590000nm 304800nm 1666200nm 890000nm "2" "2" "circle, nopaste"]
+	Pin[ 1770000nm -2540000nm 1590000nm 304800nm 1666200nm 890000nm "3" "3" "circle, nopaste"]
+	Pin[ 750000nm -4320000nm 1590000nm 304800nm 1666200nm 890000nm "4" "4" "circle, nopaste"]
+	Pin[ -270000nm -2540000nm 1590000nm 304800nm 1666200nm 890000nm "5" "5" "circle, nopaste"]
+	Pin[ -1290000nm -4320000nm 1590000nm 304800nm 1666200nm 890000nm "6" "6" "circle, nopaste"]
+	Pin[ -2310000nm -2540000nm 1590000nm 304800nm 1666200nm 890000nm "7" "7" "circle, nopaste"]
+	Pin[ -3330000nm -4320000nm 1590000nm 304800nm 1666200nm 890000nm "8" "8" "circle, nopaste"]
+	Pin[ -6350000nm 0nm 3250000nm 304800nm 3326200nm 3250000nm "9" "9" "circle, nopaste"]
+	Pin[ 6350000nm 0nm 3250000nm 304800nm 3326200nm 3250000nm "9" "9" "circle, nopaste"]
+	ElementLine [-7875000nm -9915000nm -7875000nm 5075000nm 150000nm]
+	ElementLine [7875000nm -9915000nm 7875000nm 5075000nm 150000nm]
+	ElementLine [-7875000nm 5075000nm 7875000nm 5075000nm 150000nm]
+	ElementLine [-7875000nm -9915000nm 7875000nm -9915000nm 150000nm]
+)
